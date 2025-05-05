@@ -85,7 +85,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2,2]])
 ![image](https://github.com/user-attachments/assets/91d3e43f-3fcd-4f3a-b3c4-662e9e2c1c11)
 
 ### DecisionTree Classifier
-![image](https://github.com/user-attachments/assets/93c63c95-47f4-4acd-9824-148ea3633a8a)
+![image](https://github.com/user-attachments/assets/5f92d4f3-8a4c-4554-abb8-2fa51400224e)
 
 ### Accuracy
 ![image](https://github.com/user-attachments/assets/fb97c39e-96da-4a17-b406-64a7ee7f1b3f)
